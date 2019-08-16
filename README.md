@@ -1,2 +1,2 @@
 # dengue_cohort_symptom
-analysis of 10 years of dengue symptom data from Iquitos cohorts
+This repo contains all the r-scripts for the analysis of Iquitos symptom data over the last 15 years.
